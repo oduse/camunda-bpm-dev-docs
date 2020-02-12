@@ -403,7 +403,7 @@ Make sure that you have set the right minor version within the query. (e.g. 7.9.
 1. Click on "Confirm".
 1. After the completion of the bulk operation, click on "Ok, got it".
 
-Put the following query in the search box of the [issues page]():
+Put the following query in the search box of the [issues page](https://app.camunda.com/jira/issues):
 ```
 project = CAM AND fixVersion = <release-version>
 ```
